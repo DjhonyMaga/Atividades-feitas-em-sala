@@ -1,0 +1,21 @@
+p {
+    background-color: brown;
+    color: white;
+    text-align: center;
+    font-size: large;
+}
+
+table{
+    border: 1px solid #000;
+    height: 100px;
+    margin: 40px auto;
+    width: 400px;
+}
+
+td{
+    border: 2px solid black;
+    background-color: blanchedalmond;
+    text-align: center;
+    padding: 10px;
+    width: 15px;
+}

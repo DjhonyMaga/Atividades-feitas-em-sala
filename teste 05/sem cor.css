@@ -1,0 +1,8 @@
+@mediaprint{
+    /*tag para deixar edição em colorido porém impresão em preto e branco,
+     tem que fazer um novo link dentro do HTML para funcionar*/
+    * {
+        background: transparent !important;
+        color: #000 !important;
+      }
+    }
